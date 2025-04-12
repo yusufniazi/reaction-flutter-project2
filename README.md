@@ -1,16 +1,12 @@
-# emoji_reaction
+# Emoji Reaction
 
-A new Flutter project.
+A simple Flutter app demonstrating how to implement emoji reactions. This can be used as a base for chat apps, social media features, or just to practice working with Flutter UI, animations, and gestures.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+You can run this app locally or use Flutter directly in the browser via [DartPad](https://dartpad.dev) or [Flutter Web](https://flutter.dev).
 
-A few resources to get you started if this is your first Flutter project:
+## Author 
+ ### By YUSUF NIAZI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
